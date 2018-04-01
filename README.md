@@ -15,4 +15,4 @@
 ## Dependencias:
 [![npm](https://img.shields.io/badge/ruby-2.4.3-brightgreen.svg)]()
 [![npm](https://img.shields.io/badge/rails-5.1.6-brightgreen.svg)]()
-[![npm](https://img.shields.io/badge/sass-rails-5-brightgreen.svg)]()
+
